@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="94509f6f-279b-4f8d-9a01-a5803ad6f49c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sergeyLessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/colourNames.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/documentation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/fontsInfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/bat/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/credits/credits.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/css/main_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/js/script.js" afterDir="false" />
+    <list default="true" id="358ab3c1-6d8e-4de9-81be-4894bb5d4d75" name="Default Changelist" comment="first mac">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/css/main_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/css/main_style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,5 +74,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="three mac" />
+    <MESSAGE value="first mac" />
+    <option name="LAST_COMMIT_MESSAGE" value="first mac" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="144" y="79" key="MergeDialog" timestamp="1603614657867">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1603614657867" />
+    <state x="354" y="211" key="MultipleFileMergeDialog" timestamp="1603614657903">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="354" y="211" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1603614657903" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1603614575482">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603614575482" />
+    <state x="520" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603613139104">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="520" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1603613139104" />
   </component>
 </project>

@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94509f6f-279b-4f8d-9a01-a5803ad6f49c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/IMG-1019 copy.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/IMG-1019.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/bg1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/bg121.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/bg3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/bg4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/jgv.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/css/main_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/css/main_style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/images/favicon.ico" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +58,16 @@
       <option name="presentableId" value="Default" />
       <updated>1603487146822</updated>
       <workItem from="1603487147896" duration="1098000" />
-      <workItem from="1603603816615" duration="5040000" />
+      <workItem from="1603603816615" duration="5646000" />
     </task>
+    <task id="LOCAL-00001" summary="two">
+      <created>1603608976362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603608976362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +87,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="two" />
+    <option name="LAST_COMMIT_MESSAGE" value="two" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="15" key="CommitChangelistDialog2" timestamp="1603608974950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="15" key="CommitChangelistDialog2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1603608974950" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1603608981899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1603608981899" />
+    <state x="777" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603609532596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1603609532596" />
   </component>
 </project>

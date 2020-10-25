@@ -302,10 +302,21 @@ h1,h2,h3{
 }
 /* END OF BUTTON */
 /* CARD COLUMNS */
+@media (max-width: 470px){
+	.fabtheme-card-columns{
+		column-count: 1;
+	}
+	.fabtheme-parallax-1{
+		background-position: bottom;
+		background-size: cover;
+	}
+}
 @media (min-width: 576px){
     .fabtheme-card-columns{
         column-count: 1;
+
     }
+
 	.card-count>.fabtheme-card-columns{
         column-count: 1;
     }
@@ -315,6 +326,8 @@ h1,h2,h3{
         column-count: 1;
 
     }
+
+
 	.card-count>.fabtheme-card-columns{
         column-count: 1;
     }

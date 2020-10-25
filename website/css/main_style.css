@@ -310,7 +310,7 @@ h1,h2,h3{
 		display: none;
 	}
 	.fabtheme-parallax-1{
-		background-position: inherit;
+		background: url("../images/bg3.jpg");
 		background-size: cover;
 	}
 }

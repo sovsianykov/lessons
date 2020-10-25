@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="358ab3c1-6d8e-4de9-81be-4894bb5d4d75" name="Default Changelist" comment="first macabou4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="94509f6f-279b-4f8d-9a01-a5803ad6f49c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,25 +16,35 @@
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1jIMRqjMYHShlJYF6wAneRLk2S8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lessons/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sergeyLessons/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -58,64 +58,16 @@
       <option name="presentableId" value="Default" />
       <updated>1603487146822</updated>
       <workItem from="1603487147896" duration="1098000" />
+      <workItem from="1603603816615" duration="5646000" />
     </task>
-    <task id="LOCAL-00001" summary="first maccolor">
-      <created>1603615040734</created>
+    <task id="LOCAL-00001" summary="two">
+      <created>1603608976362</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1603615040734</updated>
+      <updated>1603608976362</updated>
     </task>
-    <task id="LOCAL-00002" summary="first macabout1">
-      <created>1603619124336</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1603619124336</updated>
-    </task>
-    <task id="LOCAL-00003" summary="first macabout1">
-      <created>1603619752985</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1603619752985</updated>
-    </task>
-    <task id="LOCAL-00004" summary="first macabou2">
-      <created>1603619831090</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1603619831090</updated>
-    </task>
-    <task id="LOCAL-00005" summary="first macabou2">
-      <created>1603628704894</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1603628704894</updated>
-    </task>
-    <task id="LOCAL-00006" summary="first macabou3">
-      <created>1603630326392</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1603630326392</updated>
-    </task>
-    <task id="LOCAL-00007" summary="first macabou4">
-      <created>1603631665912</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1603631665912</updated>
-    </task>
-    <task id="LOCAL-00008" summary="first macabou4">
-      <created>1603632240021</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1603632240021</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,32 +86,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="three mac" />
-    <MESSAGE value="first mac" />
-    <MESSAGE value="first maccolor" />
-    <MESSAGE value="first macabout1" />
-    <MESSAGE value="first macabou2" />
-    <MESSAGE value="first macabou3" />
-    <MESSAGE value="first macabou4" />
-    <option name="LAST_COMMIT_MESSAGE" value="first macabou4" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="two" />
+    <option name="LAST_COMMIT_MESSAGE" value="two" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="144" y="79" key="MergeDialog" timestamp="1603614657867">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="585" y="15" key="CommitChangelistDialog2" timestamp="1603608974950">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="144" y="79" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1603614657867" />
-    <state x="354" y="211" key="MultipleFileMergeDialog" timestamp="1603614657903">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="585" y="15" key="CommitChangelistDialog2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1603608974950" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1603608981899">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="354" y="211" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1603614657903" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603632414340">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1603608981899" />
+    <state x="777" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603609532596">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603619138667" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1603632414340" />
-    <state x="520" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603614884860">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="520" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1603614884860" />
+    <state x="777" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1603609532596" />
   </component>
 </project>

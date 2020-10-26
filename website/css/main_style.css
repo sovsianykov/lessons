@@ -195,7 +195,7 @@ h1,h2,h3{
 }
 /* END OF NEWSLETTER */
 /* PARALLAX */
-a, i  {
+a  {
 	color: #ea9365;
 	font-size: 18px;
 
@@ -458,15 +458,6 @@ a, i  {
 	background-color: #041F1E;
 	color: #F3F3F3;
 	border-radius: 0;
-}
-.card  {
-	height: 235px;
-	overflow: hidden;
-	/*background: black;*/
-}
-.card-img  {
-	border-color: black;
-
 }
 
 

@@ -19,23 +19,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="358ab3c1-6d8e-4de9-81be-4894bb5d4d75" name="Default Changelist" comment="first macabou4">
-      <change afterPath="$PROJECT_DIR$/website/images/Autamn.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/Nuages.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/gallery/11012641_10204399674466142_5196665507008814674_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/gallery/11169853_801986139886652_3873875428727590013_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/gallery/12963524_630239263793955_3258555158678430823_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/gallery/13411630_10208189350963633_4410493557688311413_o.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/gallery/13692789_1170145846338878_302683113562881474_o.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/gallery/17192465_1410804955649006_7031378232586184011_o.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/gallery/18485592_10213167490207051_2610527077359250839_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/gallery/22008441_10214525321071974_660331491240790985_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/gallery/31491848_1950625851615855_8173874727715078144_o.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/images/gallery/33617026_2032878610295334_401169229849559040_o.jpg" afterDir="false" />
+    <list default="true" id="358ab3c1-6d8e-4de9-81be-4894bb5d4d75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/website/images/gallery/f1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/gallery/f2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/gallery/f3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/gallery/f4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/gallery/f5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/gallery/f6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/gallery/f7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/gallery/f8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/images/gallery/f9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/bat/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/credits/credits.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/website/css/main_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/website/css/main_style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/images/Autaumn Leaves Sergey Ovsianykov  guitar solo.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/gallery/11012641_10204399674466142_5196665507008814674_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/gallery/11169853_801986139886652_3873875428727590013_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/gallery/12963524_630239263793955_3258555158678430823_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/gallery/13411630_10208189350963633_4410493557688311413_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/gallery/13692789_1170145846338878_302683113562881474_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/gallery/17192465_1410804955649006_7031378232586184011_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/gallery/18485592_10213167490207051_2610527077359250839_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/gallery/22008441_10214525321071974_660331491240790985_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/gallery/31491848_1950625851615855_8173874727715078144_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/images/gallery/33617026_2032878610295334_401169229849559040_o.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +75,16 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lessons/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sergeyLessons/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -136,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603631665912</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first macabou4">
+      <created>1603646751642</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603646751642</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +185,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="first macabou4" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="563" y="15" key="CommitChangelistDialog2" timestamp="1603646750065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="15" key="CommitChangelistDialog2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1603646750065" />
     <state x="144" y="79" key="MergeDialog" timestamp="1603614657867">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -174,10 +197,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="354" y="211" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1603614657903" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603631675490">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="427" y="215" key="Vcs.Push.Dialog.v2" timestamp="1603646769308">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603619138667" />
+    <state x="427" y="215" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1603646769308" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1603631675490" />
     <state x="520" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603614884860">
       <screen x="0" y="0" width="1440" height="900" />
